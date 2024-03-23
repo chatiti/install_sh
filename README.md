@@ -10,4 +10,5 @@
 |            | 1.23    |
 | Minikube   | v1.23.8 |
 | Fission    | v1.20.1 |
+| Prometheus_docker    | latest |
 
