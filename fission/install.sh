@@ -1,6 +1,5 @@
 #install online
-#curl -Lo fission https://github.com/fission/fission/releases/download/v1.20.1/fission-v1.20.1-linux-amd64 \
-    && chmod +x fission && sudo mv fission /usr/local/bin/
+#curl -Lo fission https://github.com/fission/fission/releases/download/v1.20.1/fission-v1.20.1-linux-amd64 && chmod +x fission && sudo mv fission /usr/local/bin/
 
 #install offline
 yum install fission-v1.20.1-linux-amd64

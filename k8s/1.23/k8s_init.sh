@@ -1,4 +1,4 @@
-API_SERVER_ADDRESS=192.168.179.150 
+API_SERVER_ADDRESS=192.168.1.238 
 
 cat > /etc/sysctl.d/kubernetes.conf << EOF
 net.bridge.bridge-nf-call-ip6tables = 1
